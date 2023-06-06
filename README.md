@@ -1,1 +1,1 @@
-# micrograd-go
+# micrograd - golang implementation
